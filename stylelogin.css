@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white
+}
+
+.botao1 {
+    background-color: white;
+    color: green;
+}
+
+.botao2 {
+    background-color: white;
+    color: red;
+}
