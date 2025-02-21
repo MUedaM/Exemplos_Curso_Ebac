@@ -1,0 +1,19 @@
+h1 {
+    color: pink
+}
+
+h2 {
+    color: gold
+}
+
+#lista h2{
+    color: green
+}
+
+.creation_time {
+    color: #ccc
+}
+
+* {
+    color: gray
+}
