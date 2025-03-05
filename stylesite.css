@@ -4,8 +4,23 @@
     padding: 5;
 }
 
+body > header {
+    background-color: #2f3640;
+    padding: 16px;
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 header li {
     display: inline;
+}
+
+header li a {
+    color: white
 }
 
 .container {
